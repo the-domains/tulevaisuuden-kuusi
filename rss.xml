@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Tulevaisuuden kuusi]]></title>
         <description><![CDATA[Tulevaisuuden kuusi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tulevaisuuden-kuusi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 07:41:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 07:47:26 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tulevaisuuden-kuusi/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hyvä päiväkoti/koulu/oppilaitos</p>]]></description>
-            <link>undefinedf9bed5b2-4a13-4999-9f86-a37b8e92635c/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fd0debff-12c4-4be6-a579-00a87e32c08d.jpg">]]></description>
+            <link>https://thegrid.ai/tulevaisuuden-kuusi/f9bed5b2-4a13-4999-9f86-a37b8e92635c/index.html</link>
             <guid isPermaLink="false">f9bed5b2-4a13-4999-9f86-a37b8e92635c</guid>
-            <pubDate>Tue, 23 Feb 2016 07:40:58 GMT</pubDate>
+            <pubDate>Tue, 23 Feb 2016 07:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
