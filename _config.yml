@@ -1,0 +1,28 @@
+name: Tulevaisuuden kuusi
+favicon: null
+layout_spectrum: 0.07198141072876751
+typography_spectrum: 0.45063626975752413
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.24608800769783556
+  lightness: 0.7179116057232022
+  saturation: 0.45204736408777535
+  rhythmicContrast: 0.35680128587409854
+purpose: []
